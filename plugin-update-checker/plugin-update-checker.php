@@ -1,0 +1,1 @@
+<?php // Simulated Plugin Update Checker ?>
