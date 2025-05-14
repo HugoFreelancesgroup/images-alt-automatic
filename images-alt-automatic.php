@@ -14,7 +14,8 @@
 require plugin_dir_path(__FILE__) . 'plugin-update-checker/plugin-update-checker.php';
 
 $updateChecker = Puc_v4_Factory::buildUpdateChecker(
-    'https://github.com/TU_USUARIO/TU_REPOSITORIO',
+    'https://github.com/HugoFreelancesgroup/images-alt-automatic',
+
     __FILE__,
     'images-alt-automatic'
 );
