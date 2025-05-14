@@ -3,7 +3,7 @@
  * Plugin Name: Images Alt Automatic
  * Plugin URI: https://freelancesgroup.com
  * Description: Plugin para colocar el Alt del nombre del archivo 
- * Version: 1.10
+ * Version: 1.1.0
  * Author: Freelances Group
  * Author URI: https://freelancesgroup.com
  * Text Domain: images-alt-automatic
